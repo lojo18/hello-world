@@ -1,4 +1,4 @@
 # helo-world
 Programvaruutveckling
 
-Mitt namn är Louise, studerar på Blekinge Tekniska Högskola.
+Mitt namn är Louise, jag studerar på Blekinge Tekniska Högskola.
